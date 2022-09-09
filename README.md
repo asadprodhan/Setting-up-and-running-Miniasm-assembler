@@ -1,6 +1,9 @@
 # **Setting up and running Miniasm assembler** <br />
 
 
+Miniasm assembler can be set up and run by using the Pomoxis package. Pomoxis is a bioinformatics tool designed for processing the nanopore sequencing data.
+
+
 ## **Some relevant FAQs**
 
 
