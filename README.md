@@ -44,7 +44,7 @@ A: You can run the executable in your terminal without having to specifying its 
 **Q: How do you add the executable path to the PATH environment variable?**
 
 
-A: Run the following coomand. See https://github.com/asadprodhan/About-the-PATH 
+A: Run the following command. See https://github.com/asadprodhan/About-the-PATH 
 
 
 ```
