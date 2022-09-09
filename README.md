@@ -63,7 +63,7 @@ conda install -c bioconda pomoxis
 ```
 
 
-**Q: Pomoxis usage command?**
+**Q: What is the pomoxis usage command?**
 
 
 A: Run the following command. It will show all the usage options or flags.
